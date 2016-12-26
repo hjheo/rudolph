@@ -3,6 +3,9 @@ body {
   padding: 0;
   background-color: #241000;
 }
+a {
+  list-style: none;
+}
 
 .rudolph {
   width: 400px;
